@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+    <location netOffset="-362563.54,-4832311.19" convBoundary="0.00,0.00,2064.54,1284.45" origBoundary="13.296064,43.631354,13.321826,43.642858" projParameter="+proj=utm +zone=33 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+	<parkingArea id="1" lane="405494696#0_0" startPos="1" endPos="50" roadsideCapacity="200"  width="5" length="30"/>
+	<parkingArea id="2" lane="-405494696#1_0" startPos="20" endPos="70" roadsideCapacity="200" width="5" length="20" />
+	<parkingArea id="3" lane="23289034_0" startPos="15" endPos="122" roadsideCapacity="150" angle="45" length="30"/>
+	<parkingArea id="4" lane="-23714318#1_0" startPos="5" endPos="90" roadsideCapacity="100" angle="90" length="30"/>
+	<parkingArea id="5" lane="260136572#3_0" startPos="1" endPos="40" roadsideCapacity="250" width="5" length="30"/>
+	<parkingArea id="6" lane="23792272#0_0" startPos="5" endPos="90" roadsideCapacity="150" angle="90" length="30"/>
+	<parkingArea id="7" lane="-23714286#0_0" startPos="5" endPos="90" roadsideCapacity="100" angle="90" length="30"/>
+	<parkingArea id="8" lane="260136572#4_0" startPos="30" endPos="80" roadsideCapacity="150" width="5" length="30"/>
+	<parkingArea id="9" lane="-23289033#1_0" startPos="50" endPos="100" roadsideCapacity="100" width="5" length="30"/>
+	<parkingArea id="10" lane="187718053#1_0" startPos="35" endPos="65" roadsideCapacity="100" width="5" length="30"/>
+	<parkingArea id="11" lane="23786199#1_0" startPos="30" endPos="60" roadsideCapacity="100" angle="90" length="20"/>
+	<parkingArea id="12" lane="23786199#3_0" startPos="20" endPos="50" roadsideCapacity="50" angle="90" length="20"/>
+	<parkingArea id="13" lane="-23912683#2_0" startPos="40" endPos="90" roadsideCapacity="100" width="5" length="30"/>
+</additional>

@@ -1,0 +1,11 @@
+<configuration>
+<input>
+<net-file value="OSMtest.net.xml"/>
+<route-files value="in_routex.rou.xml"/>
+<additional-files value="input2m_additional.add.xml"/>
+</input>
+<time>
+<begin value="0"/>
+<end value="2000"/>
+</time>
+</configuration>

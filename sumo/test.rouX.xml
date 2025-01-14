@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"> 
+<route id="route1" edges="  -27282352#1  -27282352#0    517419309   23792302#0   23792302#1   23792302#2  -23792272#1  -23792272#0    584181258   23714295#0   23714295#1   23714295#2     23714307    584181253  405494696#0  405494696#1"/> 
+<route id="route2" edges=" -187816766#1 -187816766#0   27282359#6   27282359#7   27282359#8    542026940   23714287#0   23714287#1   23714286#0   23714286#1"/> 
+<route id="route3" edges="   23714280#0   23714280#1   23714287#0   23714287#1   23714286#0   23714286#1"/> 
+<route id="route4" edges="    213159004  213159005#0  213159005#1  213159005#2  213159005#3  213159005#4  468478393#1    517419311    517419313    517419312 -405494696#2 -405494696#1 -405494696#0   -584181253"/> 
+<route id="route5" edges="   42138432#0   42138432#1   42138432#2   42138432#3   42138432#4   42138432#5   42138432#6   42138432#7   42138432#8   42138432#9  -23912692#1  -23912692#0    219899010    468478392    468478391 -260136572#4 -260136572#3 -260136572#2 -260136572#1 -260136572#0    -23714284"/> 
+<route id="route6" edges=" -194463378#2 -194463378#1 -194463378#0   23289033#0   23289033#1    517419314    517419316    232805394    232805393  232805395#0  232805395#1    517419313    517419312 -405494696#2 -405494696#1 -405494696#0"/> 
+<route id="route7" edges="  261959646#0  261959646#1  261959646#2  129423851#2  129423851#3    517419306    517419309   23792302#0  189253789#0  189253789#1  -23714318#2  -23714318#1"/> 
+<vehicle id="v17" depart="  0" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v27" depart=" 60" route="route4"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v21" depart=" 80" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v37" depart="150" route="route4"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v11" depart="180" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v34" depart="220" route="route6"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v7" depart="220" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v26" depart="240" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v1" depart="280" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v10" depart="280" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v16" depart="280" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v35" depart="290" route="route6"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v22" depart="330" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v39" depart="330" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v4" depart="340" route="route2"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v6" depart="340" route="route6"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v30" depart="360" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v25" depart="360" route="route6"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v33" depart="360" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v8" depart="360" route="route1"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v2" depart="360" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v19" depart="360" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v23" depart="360" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v12" depart="360" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v36" depart="370" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v20" depart="430" route="route6"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v13" depart="450" route="route2"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v18" depart="500" route="route4"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v14" depart="530" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v29" depart="530" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v3" depart="550" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v40" depart="550" route="route2"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v5" depart="550" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v24" depart="560" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v31" depart="580" route="route1"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v15" depart="630" route="route5"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v32" depart="680" route="route2"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v38" depart="710" route="route6"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v9" depart="770" route="route7"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+<vehicle id="v28" depart="790" route="route3"> 
+<param key="has.rerouting.device" value="true"/> 
+</vehicle> 
+</routes> 
